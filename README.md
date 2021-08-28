@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi Humans:
+
+Stan here, I like Python.
+I've had ramen for lunch.
